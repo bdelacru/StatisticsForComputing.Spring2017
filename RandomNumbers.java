@@ -1,3 +1,7 @@
+//Betsy De La Cruz
+//1/23/2017
+//Writing a Java Program generating 100 random numbers between 1 and 100.
+
 import java.util.Random;
 
 public class RandomNumbers{
